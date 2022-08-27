@@ -1,0 +1,306 @@
+1640211807780	geckodriver	INFO	Listening on 127.0.0.1:42093
+1640211807784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42863" "-no-remote" "-profile" "/tmp/rust_mozprofileOTiliU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640211808657	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOTiliU/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:42863/devtools/browser/848b49ad-e840-45e4-8900-693f4ed2ccc8
+1640211810090	Marionette	INFO	Listening on port 34651
+1640211810211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640211814599	Marionette	INFO	Stopped listening on port 34651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1640211915562	geckodriver	INFO	Listening on 127.0.0.1:33221
+1640211915567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40409" "-no-remote" "-profile" "/tmp/rust_mozprofileGTlp8M"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640211916372	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGTlp8M/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:40409/devtools/browser/59eea8f3-db36-4df2-908b-5daecbaf1d6a
+1640211917797	Marionette	INFO	Listening on port 43203
+1640211917886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+1640211924771	Marionette	INFO	Stopped listening on port 43203
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640212133520	geckodriver	INFO	Listening on 127.0.0.1:53961
+1640212133524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42065" "-no-remote" "-profile" "/tmp/rust_mozprofileYJj0GM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640212134301	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYJj0GM/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:42065/devtools/browser/3f026d1d-04df-49e6-8802-445a057b036d
+1640212136129	Marionette	INFO	Listening on port 43193
+1640212136159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+1640212144572	Marionette	INFO	Stopped listening on port 43193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17504, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-YTnrc5/firefox-95.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640212189650	geckodriver	INFO	Listening on 127.0.0.1:53487
+1640212189654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40231" "-no-remote" "-profile" "/tmp/rust_mozprofile6Ctv4i"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640212190418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6Ctv4i/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:40231/devtools/browser/ed2d85d1-6ee7-4e2a-9e92-7a98a0c5db95
+1640212192055	Marionette	INFO	Listening on port 40161
+1640212192086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:442:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2091:35
+addAllSources@resource://devtools/server/actors/thread.js:1446:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:175:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:582:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:496:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:'
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.gstatic.com/recaptcha/releases/VZKEDW9wslPbEc9RmzMqaOAP/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.gstatic.com/recaptcha/releases/VZKEDW9wslPbEc9RmzMqaOAP/styles__ltr.css without a browsingContextID set
+1640212209315	Marionette	INFO	Stopped listening on port 40161
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17790, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-YTnrc5/firefox-95.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640212245783	geckodriver	INFO	Listening on 127.0.0.1:37219
+1640212245788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36801" "-no-remote" "-profile" "/tmp/rust_mozprofileiWLimX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640212246876	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiWLimX/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:36801/devtools/browser/3dbe7dc7-303c-4e49-9cef-1d3f76fb4183
+1640212248446	Marionette	INFO	Listening on port 37723
+1640212248508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:442:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2091:35
+addAllSources@resource://devtools/server/actors/thread.js:1446:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:175:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:582:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:496:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:'
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.gstatic.com/recaptcha/releases/VZKEDW9wslPbEc9RmzMqaOAP/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.gstatic.com/recaptcha/releases/VZKEDW9wslPbEc9RmzMqaOAP/styles__ltr.css without a browsingContextID set
+1640212263397	Marionette	INFO	Stopped listening on port 37723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18032, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-YTnrc5/firefox-95.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640212399211	geckodriver	INFO	Listening on 127.0.0.1:38571
+1640212399215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49063" "-no-remote" "-profile" "/tmp/rust_mozprofileja3s7T"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640212399977	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileja3s7T/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:49063/devtools/browser/072fdcbb-f0c4-443a-b28c-3ad16e9ba26e
+1640212401600	Marionette	INFO	Listening on port 40979
+1640212401638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+1640212415270	geckodriver	INFO	Listening on 127.0.0.1:59399
+1640212415274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47217" "-no-remote" "-profile" "/tmp/rust_mozprofileyTPg6B"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640212416045	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyTPg6B/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:47217/devtools/browser/47f1b40b-d87f-4d06-8ff6-bef40d182661
+1640212417453	Marionette	INFO	Listening on port 39001
+1640212417524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+1640212450249	Marionette	INFO	Stopped listening on port 39001
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18545, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-YTnrc5/firefox-95.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640212451633	Marionette	INFO	Stopped listening on port 40979
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640212481868	geckodriver	INFO	Listening on 127.0.0.1:56101
+1640212481872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41241" "-no-remote" "-profile" "/tmp/rust_mozprofileWIIB15"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640212482651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWIIB15/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:41241/devtools/browser/1fa2d998-6722-4453-8433-3c641cfad278
+1640212483896	Marionette	INFO	Listening on port 46543
+1640212484560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+1640212493700	Marionette	INFO	Stopped listening on port 46543
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1640212721986	geckodriver	INFO	Listening on 127.0.0.1:51601
+1640212721990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40473" "-no-remote" "-profile" "/tmp/rust_mozprofileYTZWr8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640212722734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYTZWr8/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:40473/devtools/browser/351d5d44-9088-4b03-8f08-f57fd49607d1
+1640212724166	Marionette	INFO	Listening on port 33761
+1640212724211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+1640212732529	Marionette	INFO	Stopped listening on port 33761
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640212900901	geckodriver	INFO	Listening on 127.0.0.1:48925
+1640212900905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47593" "-no-remote" "-profile" "/tmp/rust_mozprofileSTFjDY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640212901656	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSTFjDY/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:47593/devtools/browser/969227b7-c495-435f-befd-7d86e54cb1c5
+1640212903220	Marionette	INFO	Listening on port 37417
+1640212903326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+1640212911891	Marionette	INFO	Stopped listening on port 37417
+[Parent 19657, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-YTnrc5/firefox-95.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1640212967212	geckodriver	INFO	Listening on 127.0.0.1:40759
+1640212967217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49985" "-no-remote" "-profile" "/tmp/rust_mozprofilerx5JFs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640212967964	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerx5JFs/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:49985/devtools/browser/5ed85f6a-bb84-4f15-a8be-8fc41fb18a20
+1640212969563	Marionette	INFO	Listening on port 45443
+1640212969783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+1640213043434	Marionette	INFO	Stopped listening on port 45443
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19888, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-YTnrc5/firefox-95.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1640213128527	geckodriver	INFO	Listening on 127.0.0.1:57671
+1640213128531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37341" "-no-remote" "-profile" "/tmp/rust_mozprofile3Yy6ne"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640213129277	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3Yy6ne/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:37341/devtools/browser/4f40aee8-3931-412a-9845-57bfa84016a7
+1640213130759	Marionette	INFO	Listening on port 46153
+1640213130850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.gstatic.com/recaptcha/releases/VZKEDW9wslPbEc9RmzMqaOAP/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.gstatic.com/recaptcha/releases/VZKEDW9wslPbEc9RmzMqaOAP/styles__ltr.css without a browsingContextID set
+1640213158580	Marionette	INFO	Stopped listening on port 46153
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640213198000	geckodriver	INFO	Listening on 127.0.0.1:49133
+1640213198004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52825" "-no-remote" "-profile" "/tmp/rust_mozprofileocU6zr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640213198801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileocU6zr/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:52825/devtools/browser/b2da38e7-0429-4a1e-a33f-9c38e3c166ef
+1640213200205	Marionette	INFO	Listening on port 46089
+1640213200240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+JavaScript error: https://ri.magazineluiza.com.br/show.aspx?idCanal=CHN0/Z4bUSgrS8IkQeL+Wg==, line 1: ReferenceError: gtag is not defined
+1640213234838	Marionette	INFO	Stopped listening on port 46089
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1640213272086	geckodriver	INFO	Listening on 127.0.0.1:58193
+1640213272092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37009" "-no-remote" "-profile" "/tmp/rust_mozprofileqRUCaj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640213272903	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqRUCaj/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:37009/devtools/browser/dbe5cae8-44b9-4577-bc08-a17ec06f4c28
+1640213274334	Marionette	INFO	Listening on port 37605
+1640213274734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.gstatic.com/recaptcha/releases/VZKEDW9wslPbEc9RmzMqaOAP/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.gstatic.com/recaptcha/releases/VZKEDW9wslPbEc9RmzMqaOAP/styles__ltr.css without a browsingContextID set
+1640213304290	Marionette	INFO	Stopped listening on port 37605
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640213330995	geckodriver	INFO	Listening on 127.0.0.1:54889
+1640213330999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37431" "-no-remote" "-profile" "/tmp/rust_mozprofileAO8zBE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640213331760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAO8zBE/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:37431/devtools/browser/db24dfd6-cc89-4553-9195-c61ec5c1bad0
+1640213333258	Marionette	INFO	Listening on port 33035
+1640213333317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+JavaScript error: https://ri.magazineluiza.com.br/sw.js, line 3: ReferenceError: importScripts is not defined
+JavaScript error: https://ri.magazineluiza.com.br/show.aspx?idCanal=CHN0/Z4bUSgrS8IkQeL+Wg==, line 1: ReferenceError: gtag is not defined
+1640213348380	Marionette	INFO	Stopped listening on port 33035
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1640213892942	geckodriver	INFO	Listening on 127.0.0.1:53061
+1640213892946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36075" "-no-remote" "-profile" "/tmp/rust_mozprofile6R8Yb5"
